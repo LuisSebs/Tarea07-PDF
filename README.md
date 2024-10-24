@@ -10,9 +10,9 @@
 
 # Ejecución
 
-Al ejecutar los ejemplos se generaran imagenes en el directorio `src/`
+Al ejecutar los ejemplos se generarán imagenes en el directorio `src/`
 
-Para saber informacion sobre el programa y los parametros que acepta, ejecuta con **python** o **python3** el siguiente comando:
+Para saber información sobre el programa y los parametros que acepta, ejecuta con **python** o **python3** el siguiente comando:
 
 ```bash
 python3 filtro_erosion.py --help
